@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1gA5wYizKwHlVOr4S6HX2vlXBHRmmgwDuWYj6p0FBhg=",
+  "Source": "ageTravel_api",
+  "BasePath": "_content/ageTravel_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

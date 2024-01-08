@@ -1,0 +1,6 @@
+@ageTravel_api_HostAddress = http://localhost:5118
+
+GET {{ageTravel_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
